@@ -154,7 +154,7 @@ Option 4: Run from the WebGoat 5.X Standard distribution (Ubuntu)
 1. Download the WebGoat-5.X-OWASP_Standard_Ubuntu32.zip file from:
         - http://code.google.com/p/webgoat/downloads/list
 2. Unzip the file
-3. run sudu ./webgoat.sh start80
+3. run sudo ./webgoat.sh start80
 4. Browse to http://localhost/WebGoat/attack
 
 ** Note: if you receive a bind address or privilege error:
